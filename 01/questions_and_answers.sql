@@ -2,7 +2,7 @@
 SELECT Name FROM Products;
 -- 2. Select the names and the prices of all the products in the store.
 SELECT Name, Price FROM Products;
--- 3. Select the name of the products with a price less than or equal to $200.
+-- 3. Select the name of the products with a price less than or equal to $200..
 SELECT Name FROM Products WHERE Price <= 200;
 -- 4 Select all the products with a price between $60 and $120.
 -- 5 Select the name and price in cents (i.e., the price must be multiplied by 100).
